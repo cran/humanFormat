@@ -1,0 +1,14 @@
+bf96e80b869cab885dc9df5f43e169e4 *DESCRIPTION
+90d1fa97023ac55539d2274dbd7b6d6c *LICENSE
+1eae91d81da1d9963b08910ca1f66aac *NAMESPACE
+d8ac53f15248f7166f34f44a96f44315 *R/formatBytes.R
+51ba5f33e0a082a5f87d34b8e2307a90 *R/formatDuration.R
+d41d8cd98f00b204e9800998ecf8427e *R/humanFormat-internal.R
+5d9b9c18449dba2970c1d0ad372ee74c *README.md
+24abdb446b4f913e7d2f6df9ac31d708 *inst/tests/test-bytes.R
+54c75b80ea54e1c3a279e368ac593e22 *inst/tests/test-duration.R
+5e49be58ef1f7afa672896a8078d5497 *man/durationConstants.Rd
+06c1f4cad3cb3fc8395c104c882f489e *man/formatBytes.Rd
+9f26e87fe4a53bd406559b42ed167c81 *man/formatDuration.Rd
+3ce936c8cbbf2abc547d47b5785cabc4 *man/humanFormat.Rd
+ec7a36e2ca9e0527fec0e8448b76e0bf *tests/test-all.R
